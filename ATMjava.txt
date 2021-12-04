@@ -1,0 +1,10 @@
+package Education Sector;
+import java.io.10Exception;
+
+    public class ATM extends OptionMenu {
+        public static void main(String[] ags) throws 10Exception {
+            OptionMenu optionMenu = new OptionMenu();
+
+            optionMenu.getLogin();
+        }
+    }
